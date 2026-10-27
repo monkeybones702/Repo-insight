@@ -1,0 +1,6 @@
+{
+  "name": "AI Studio Automation Bridge & Repo Analyzer",
+  "description": "Production Playwright + FastAPI Python automation suite and live analytical workbench for Google AI Studio repository evaluation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
